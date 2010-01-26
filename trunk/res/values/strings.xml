@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, JRubyAndroid!</string>
+    <string name="app_name">JRuby for Android</string>
+    <string name="IRB_Button">IRB</string>
+    <string name="Editor_Button">Editor</string>
+    <string name="Scripts_Button">Scripts</string>
+    <string name="Enter_source">Enter source code here.</string>
+    <string name="No_scripts">No scripts loaded yet.</string>
+    <string name="Run_source">Execute</string>
+    <string name="Save_source">Save</string>
+    <string name="Edit_source">Edit</string>
+    <string name="Scripts_instr">Tap a script to edit, long-tap to run.</string>
+    <string name="Save_file_instr">Save script as:</string>
+    <string name="Cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="Menu_rescan">Reload scripts</string>
+    <string name="Menu_about">About</string>
+    <string name="About">JRuby for Android was created by Pascal Chatterjee.</string>
+</resources>
